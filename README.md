@@ -1,2 +1,2 @@
 # Village-info
-if you see your village informastion on this "village info"
+if you see your village information on this "village info"
